@@ -1,0 +1,7 @@
+{
+  "name": "@araya-playground/node-playground",
+  "private": true,
+  "type": "module",
+  "author": "araya <araya@araya.dev>",
+  "license": "MIT"
+}
