@@ -1,0 +1,6 @@
+node_modules
+.env
+.envrc
+
+# ignore throwaway scripts
+script.mjs
