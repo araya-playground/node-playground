@@ -3,5 +3,8 @@
   "private": true,
   "type": "module",
   "author": "araya <araya@araya.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "biome": "^0.3.3"
+  }
 }
