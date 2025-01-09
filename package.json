@@ -5,6 +5,6 @@
   "author": "araya <araya@araya.dev>",
   "license": "MIT",
   "dependencies": {
-    "biome": "^0.3.3"
+    "@biomejs/biome": "^1.9.4"
   }
 }
